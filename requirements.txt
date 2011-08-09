@@ -1,0 +1,4 @@
+# 0.14 switches to libev, that means bootstrap needs to change too
+gevent ==0.13.6
+webob
+wsgiproxy
