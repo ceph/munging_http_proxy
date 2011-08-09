@@ -1,6 +1,6 @@
-========================================================
- Munging HTTP Proxy -- Manipulate HTTP requests easily.
-========================================================
+=======================================================
+ Munging HTTP Proxy -- Manipulate HTTP requests easily
+=======================================================
 
 ``munging_http_proxy`` lets you easily modify or intercept HTTP
 requests passing through the proxy. All you need to do is write a
